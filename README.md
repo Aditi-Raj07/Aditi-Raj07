@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36D1DC&width=500&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36D1DC&width=500&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing+🚀+Keep+Going" />
 
 </div>
 
