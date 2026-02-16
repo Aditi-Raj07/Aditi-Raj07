@@ -124,5 +124,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36D1DC&width=500&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing+🚀" />
 
 </div>
-code.txt
-Displaying code.txt.
+
