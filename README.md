@@ -1,50 +1,65 @@
-<!-- Animated Header -->
+<!-- Premium Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Aditi;Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind;Building+Clean+%26+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Aditi;Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind;Crafting+Clean+%26+Scalable+UI;Open+to+Opportunities+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditi-Raj07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Frontend Developer focused on crafting clean, responsive, and user-friendly web interfaces.  
-I love turning ideas into elegant digital experiences.
+I’m a frontend developer focused on building elegant, responsive, and high-performance web applications.  
+I care about clean architecture, smooth user experience, and modern design systems.
 
-- ⚛️ React & JavaScript  
-- 🎨 UI/UX Focused  
-- 🚀 Performance Driven  
-- 🌱 Always Learning  
+- ⚛️ Specialized in **React & JavaScript**
+- 🎨 Strong focus on UI/UX & responsiveness
+- 🚀 Performance & scalability oriented
+- 🌱 Continuously learning and refining my craft
 
 ---
 
 ## ⚙️ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,vercel" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=58a6ff" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=E6EDF3&text_color=9BA1A6&icon_color=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=cccccc&dates=999999" height="170"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=9BA1A6&dates=8B949E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=E6EDF3&text_color=9BA1A6" />
 </p>
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- 📧 aditih2006@gmail.com  
-- 💼 Add LinkedIn Here  
+<p align="center">
+  <a href="mailto:aditih2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Minimal. Consistent. Impactful.</i>
+  <i>Minimal • Consistent • Impactful</i>
 </p>
