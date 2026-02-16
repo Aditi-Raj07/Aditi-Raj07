@@ -99,14 +99,6 @@ Focused on creating accessible, responsive, and visually refined digital experie
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditi-Raj07/Aditi-Raj07/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
