@@ -2,11 +2,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:36D1DC&height=220&section=header&text=Aditi%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2AFADF,75:00C9FF,100:92FE9D&height=240&section=header&text=Aditi%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=36D1DC&center=true&vCenter=true&width=700&lines=Frontend+Engineer;UI+Architecture+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+Web+Apps" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF0080&center=true&vCenter=true&width=800&lines=Frontend+Engineer;UI+Architecture+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+Web+Apps" />
 
 </div>
+
 
 ---
 
