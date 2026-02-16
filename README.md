@@ -1,54 +1,41 @@
-<h1 align="center">Aditi Raj</h1>
-
 <p align="center">
-  <i>Frontend Engineer crafting modern, scalable, and elegant web experiences.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Abhay+Kumar+Yadav;Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Designing+Modern+Web+Interfaces;Building+With+Performance+%26+Precision" />
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=2&section=header" />
+</p>
+
+<p align="center">
+  <i style="color:#8B949E;">Crafting scalable, high-performance and visually refined web experiences.</i>
+</p>
+
+<p align="center">
+  <a href="https://vercel.com/aditis-projects-ad386cdb">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF" />
   </a>
-  <a href="mailto:abhayyadav96312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:aditirh2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aditiraj41/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
   </a>
 </p>
 
 ---
 
-## About
+## ⚡ Identity
 
-I build responsive, accessible, and performance-driven web applications.
-
-Focused on:
-
-- Component-based architecture  
-- Clean UI systems  
-- Seamless user interactions  
-- API integration & async flows  
-- Maintainable and scalable code  
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs" />
-</p>
-
----
-
-## Current Focus
-
-- Building production-ready frontend systems  
-- Improving performance & Lighthouse scores  
-- Strengthening problem-solving skills  
-- Writing clean and maintainable code  
-
----
-
-<p align="center">
-  <i>Minimal. Consistent. Impactful.</i>
-</p>
+```ts
+const aditi = {
+  role: "Frontend Engineer",
+  specialization: "UI Architecture & Performance",
+  stack: ["React", "Node.js","Express.js", "Tailwind"],
+  principles: [
+    "Clean Code",
+    "Component Reusability",
+    "Accessible Interfaces",
+    "Scalable Systems"
+  ],
+  aesthetic: "Dark • Minimal • Neon Precision"
+};
