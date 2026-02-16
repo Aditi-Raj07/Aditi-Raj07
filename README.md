@@ -1,17 +1,18 @@
-<h1 align="center">Aditi</h1>
+<h1 align="center">Aditi Raj</h1>
+
 <p align="center">
-Frontend Engineer • React • UI Architecture • Performance Focused
+  <i>Frontend Engineer crafting modern, scalable, and elegant web experiences.</i>
 </p>
 
 <p align="center">
   <a href="https://your-portfolio-link.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:aditih2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:abhayyadav96312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -19,35 +20,35 @@ Frontend Engineer • React • UI Architecture • Performance Focused
 
 ## About
 
-Frontend Engineer passionate about building scalable, accessible, and performant web applications.  
-Focused on clean component architecture, design systems, and seamless user experience.
+I build responsive, accessible, and performance-driven web applications.
+
+Focused on:
+
+- Component-based architecture  
+- Clean UI systems  
+- Seamless user interactions  
+- API integration & async flows  
+- Maintainable and scalable code  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs" />
 </p>
 
 ---
 
-## Engineering Analytics
+## Current Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=E6EDF3&text_color=9BA1A6&icon_color=58A6FF"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=9BA1A6&dates=8B949E"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=E6EDF3&text_color=9BA1A6"/>
-</p>
+- Building production-ready frontend systems  
+- Improving performance & Lighthouse scores  
+- Strengthening problem-solving skills  
+- Writing clean and maintainable code  
 
 ---
 
 <p align="center">
-Engineered with precision. Built for impact.
+  <i>Minimal. Consistent. Impactful.</i>
 </p>
