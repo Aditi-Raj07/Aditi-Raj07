@@ -1,55 +1,167 @@
-<!-- ================= HERO ================= -->
+Conversation opened. 1 unread message.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditi+Raj;Frontend+Engineer;Building+Modern+Web+Interfaces;Performance+Focused+Developer" />
-</p>
+Skip to content
+Using Gmail with screen readers
+1 of 4,253
+Github Readme
+Inbox
 
-<p align="center">
-  <i>Scalable UI systems • Clean architecture • Intentional design</i>
-</p>
+CodeSender
+Attachments
+00:00 (1 minute ago)
+to me
 
-<p align="center">
-  <a href="https://vercel.com/aditis-projects-ad386cdb">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:aditirh2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditiraj41/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+🚀 CodeSender
+Secure code & file delivery
 
----
+Github Readme
+Hi 👋,
 
-## About
+Your requested code has been securely attached as a file.
 
-Frontend Engineer focused on building scalable, accessible and high-performance web applications.  
-I transform complex ideas into clean and intuitive interfaces.
+📎 Attachments:
+• code.txt
 
----
+If you didn’t request this email, you can safely ignore it.
 
-## Frontend Focus
+© 2026 CodeSender
+Built with ❤️ for developers
 
-- React ecosystem & component architecture  
-- UI consistency & design systems  
-- Performance optimization  
-- Responsive & accessible design  
-- API integration & state management  
+ One attachment
+  •  Scanned by Gmail
 
----
 
-## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,js,git,github,vscode&theme=dark" />
-</p>
+# ✨ Hi, I'm **Aditi Raj**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:36D1DC&height=220&section=header&text=Aditi%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=36D1DC&center=true&vCenter=true&width=700&lines=Frontend+Engineer;UI+Architecture+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+Web+Apps" />
+
+</div>
 
 ---
 
-## Contributions
+## 🌟 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
+<div align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</div>
 
+- 🎓 IT Student (3rd Year)  
+- 💻 Frontend Engineer (React Ecosystem)  
+- ⚡ Performance & Clean Architecture Focused  
+- 🎯 Preparing for Product-Based Companies  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=36D1DC)](https://vercel.com/aditis-projects-ad386cdb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=36D1DC)](https://www.linkedin.com/in/aditiraj41/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:aditirh2006@gmail.com)
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+# 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=tokyonight&hide_border=true" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=tokyonight&hide_border=true" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Consistency & Growth
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aditi-Raj07/Aditi-Raj07/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> *Small improvements every day create big results.*
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🤖 Interview AI Platform
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36D1DC&width=520&lines=AI+Powered+Mock+Interview+System;Real-time+Question+Generation;Performance+Feedback+Analysis;Built+for+Placement+Preparation" />
+</div>
+
+🔹 AI-based mock interview system  
+🔹 Real-time evaluation & feedback  
+🔹 Backend powered by Node + Express  
+🔹 Designed for interview readiness  
+
+---
+
+## 💰 Expense Tracker
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF7F50&width=520&lines=Track+Income+%26+Expenses;Clean+UI+Dashboard;MERN+Stack+Project;User-Friendly+Design" />
+</div>
+
+🔹 Income & expense visualization  
+🔹 Dashboard analytics  
+🔹 Clean, responsive UI  
+🔹 Full-stack implementation  
+
+---
+
+# 🧠 Fun Zone
+
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="280"/>
+</div>
+
+---
+
+# 🌈 Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36D1DC&width=500&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing+🚀" />
+
+</div>
+code.txt
+Displaying code.txt.
