@@ -1,37 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 4,253
-Github Readme
-Inbox
-
-CodeSender
-Attachments
-00:00 (1 minute ago)
-to me
-
-🚀 CodeSender
-Secure code & file delivery
-
-Github Readme
-Hi 👋,
-
-Your requested code has been securely attached as a file.
-
-📎 Attachments:
-• code.txt
-
-If you didn’t request this email, you can safely ignore it.
-
-© 2026 CodeSender
-Built with ❤️ for developers
-
- One attachment
-  •  Scanned by Gmail
-
-
-
 # ✨ Hi, I'm **Aditi Raj**
 
 <div align="center">
