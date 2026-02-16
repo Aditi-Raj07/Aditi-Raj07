@@ -69,11 +69,6 @@
 
 ---
 
-# 🐍 Consistency & Growth
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aditi-Raj07/Aditi-Raj07/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 > *Small improvements every day create big results.*
 
