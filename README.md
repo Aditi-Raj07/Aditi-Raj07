@@ -1,71 +1,50 @@
-<h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">💻 Frontend Developer | React Enthusiast | UI/UX Focused</h3>
-
----
-
-## 🚀 About Me
-
-- 🎨 Passionate about building modern & responsive web applications  
-- ⚛️ Skilled in React, JavaScript & Tailwind CSS  
-- 🌱 Currently improving my frontend architecture & performance optimization skills  
-- 🎯 Goal: Build impactful products & grow as a top-tier developer  
-- 💡 Love clean UI, smooth animations & great user experience  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Vercel
-- Netlify
-- Postman
-
----
-
-## 📈 GitHub Stats
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Aditi;Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind;Building+Clean+%26+Modern+Web+Experiences" />
 </p>
 
 ---
 
-## 🔥 Top Languages
+## 👩‍💻 About Me
+
+Frontend Developer focused on crafting clean, responsive, and user-friendly web interfaces.  
+I love turning ideas into elegant digital experiences.
+
+- ⚛️ React & JavaScript  
+- 🎨 UI/UX Focused  
+- 🚀 Performance Driven  
+- 🌱 Always Learning  
+
+---
+
+## ⚙️ Tech Stack
+
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=58a6ff" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=cccccc&dates=999999" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" height="170"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 📫 Connect
 
-- 💰 Expense Tracker – Full-stack MERN finance management app  
-- 🏖 Bihar Tourism – Improved UI & responsive layout  
-- 📊 Money Tracker – Simple and efficient expense tracking system  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: aditih2006@gmail.com  
-- 💼 LinkedIn: (Add your LinkedIn link here)  
+- 📧 aditih2006@gmail.com  
+- 💼 Add LinkedIn Here  
 
 ---
 
 <p align="center">
-  🚀 Always learning, always building.
+  <i>Minimal. Consistent. Impactful.</i>
 </p>
