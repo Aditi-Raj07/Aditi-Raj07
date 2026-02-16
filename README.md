@@ -47,26 +47,9 @@ I transform complex ideas into clean and intuitive interfaces.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
-</p>
-
----
-
 ## Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
----
-
-<p align="center">
-  <i>Minimal • Intentional • Impactful</i>
-</p>
