@@ -1,11 +1,11 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Aditi+Raj;Frontend+Engineer;Crafting+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditi+Raj;Frontend+Engineer;Designing+Scalable+UI+Systems;Building+Modern+Web+Experiences" />
 </p>
 
 <p align="center">
-  <i>Building scalable, performant and visually refined interfaces.</i>
+  <i>Performance-driven interfaces. Clean architecture. Intentional design.</i>
 </p>
 
 <p align="center">
@@ -24,8 +24,18 @@
 
 ## About
 
-Frontend Engineer focused on performance-first UI systems and scalable architecture.  
-I enjoy transforming ideas into intuitive digital experiences.
+Frontend Engineer focused on building scalable, accessible and high-performance web applications.  
+I enjoy turning complex problems into clean, intuitive interfaces.
+
+---
+
+## Frontend Focus
+
+- React ecosystem & component architecture  
+- UI consistency & design systems  
+- Performance optimization & Lighthouse improvement  
+- Responsive & accessible web standards  
+- API integration & state management  
 
 ---
 
@@ -42,14 +52,26 @@ I enjoy transforming ideas into intuitive digital experiences.
 - 🚀 AI-powered full-stack applications  
 - 💻 Modern portfolio & UI systems  
 - 📊 Performance-optimized frontend builds  
-- 🧠 Strong focus on clean architecture  
+- 🧠 Strong emphasis on clean architecture  
 
 ---
 
-## Contributions
+## Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditi-Raj07/Aditi-Raj07/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditi-Raj07&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Raj07&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
