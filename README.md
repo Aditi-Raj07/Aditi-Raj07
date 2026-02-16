@@ -1,11 +1,11 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditi+Raj;Frontend+Engineer;Designing+Scalable+UI+Systems;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditi+Raj;Frontend+Engineer;Building+Modern+Web+Interfaces;Performance+Focused+Developer" />
 </p>
 
 <p align="center">
-  <i>Performance-driven interfaces. Clean architecture. Intentional design.</i>
+  <i>Scalable UI systems • Clean architecture • Intentional design</i>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## About
 
 Frontend Engineer focused on building scalable, accessible and high-performance web applications.  
-I enjoy turning complex problems into clean, intuitive interfaces.
+I transform complex ideas into clean and intuitive interfaces.
 
 ---
 
@@ -33,8 +33,8 @@ I enjoy turning complex problems into clean, intuitive interfaces.
 
 - React ecosystem & component architecture  
 - UI consistency & design systems  
-- Performance optimization & Lighthouse improvement  
-- Responsive & accessible web standards  
+- Performance optimization  
+- Responsive & accessible design  
 - API integration & state management  
 
 ---
@@ -47,31 +47,22 @@ I enjoy turning complex problems into clean, intuitive interfaces.
 
 ---
 
-## Selected Work
-
-- 🚀 AI-powered full-stack applications  
-- 💻 Modern portfolio & UI systems  
-- 📊 Performance-optimized frontend builds  
-- 🧠 Strong emphasis on clean architecture  
-
----
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditi-Raj07&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## Activity
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-Raj07&theme=react-dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9BA1A6"/>
+</p>
+
+---
+
+## Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 ---
