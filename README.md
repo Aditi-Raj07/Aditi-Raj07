@@ -20,7 +20,8 @@
 </div>
 
 - 🎓 IT Student (3rd Year)  
-- 💻 Frontend Engineer (React Ecosystem)  
+- 💻 software Engineer
+-  Agentic AI,LLM, RAG AI
 - ⚡ Performance & Clean Architecture Focused  
 - 🎯 Preparing for Product-Based Companies  
 
