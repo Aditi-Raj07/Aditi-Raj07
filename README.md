@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF0080&center=true&vCenter=true&width=800&lines=Frontend+Engineer;UI+Architecture+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF0080&center=true&vCenter=true&width=800&lines=Software+Engineer;Data Engineering+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+WebApps+AI Agents+RAG" />
 
 </div>
 
