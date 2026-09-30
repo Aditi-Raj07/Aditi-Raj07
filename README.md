@@ -130,4 +130,126 @@ A multi-agent travel planning system built with **LangGraph and MCP**, using spe
 
 ### Turn Long Videos Into Searchable Knowledge
 
-An AI-powered meeting and video assistant that processes **YouTube and local audio/video**
+An AI-powered meeting and video assistant that processes **YouTube and local audio/video**, generates transcripts, extracts meeting intelligence, and enables conversational Q&A.
+
+**Features:**
+
+* 🎙️ Whisper-based transcription
+* 🌍 English, Hindi & Hinglish support
+* 📝 AI-generated summaries
+* ✅ Action item extraction
+* 🎯 Decision extraction
+* ❓ Open-question detection
+* 🔍 RAG-based semantic search
+* 💬 Conversational Q&A over transcripts
+
+**Stack**
+
+`Python` `Whisper` `LangChain` `Mistral AI` `ChromaDB` `Hugging Face`
+
+---
+
+## 📊 SQL Data Warehouse & Analytics Platform
+
+### From Raw Business Data → Analytics-Ready Data
+
+Designed a **3-layer Medallion Data Warehouse** integrating ERP and CRM data for analytical workloads.
+
+```text
+Raw Sources
+     │
+     ▼
+┌──────────┐
+│  Bronze  │
+└────┬─────┘
+     ▼
+┌──────────┐
+│  Silver  │
+└────┬─────┘
+     ▼
+┌──────────┐
+│   Gold   │
+└────┬─────┘
+     ▼
+Business Analytics
+```
+
+**Highlights:**
+
+* 🏗️ Medallion architecture
+* 🔄 ETL pipelines
+* ⭐ Star Schema
+* 📐 Fact & Dimension modeling
+* 🧮 CTEs & Window Functions
+* 🔗 Complex Joins
+* 📈 Analytical reporting
+
+**Stack**
+
+`SQL Server` `SSMS` `ETL` `Data Modeling` `Star Schema`
+
+---
+
+# 📚 Currently Learning
+
+```text
+DSA
+ ├── Problem Solving
+ ├── Algorithms
+ └── Data Structures
+
+AI Engineering
+ ├── RAG
+ ├── LangChain
+ ├── LangGraph
+ ├── Multi-Agent Systems
+ └── LLM Applications
+
+Software Engineering
+ ├── Backend Development
+ ├── APIs
+ ├── Databases
+ └── System Design
+```
+
+---
+
+# 🏆 Achievements
+
+🏅 **College Finalist — Smart India Hackathon 2025**
+
+🎓 **B.Tech Information Technology — CGPA: 8.01/10**
+
+📜 **MERN Stack Industrial Training Certified — 2025**
+
+📜 **Internshala Web Development Certificate — 2024**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aditi41/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aditirh2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aditi41">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 "Build. Learn. Break. Improve. Repeat."
+
+⭐ Feel free to explore my repositories and projects.
+
+</p>
