@@ -1,131 +1,259 @@
-# ✨ Hi, I'm **Aditi Raj**
+# 👋 Hey, I'm Aditi Raj
 
-<div align="center">
+### `B.Tech IT Student` • `Software Developer` • `AI / GenAI Enthusiast`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2AFADF,75:00C9FF,100:92FE9D&height=240&section=header&text=Aditi%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+> Building intelligent software systems that turn complex problems into simple, useful experiences.
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=FF0080&center=true&vCenter=true&width=800&lines=Software+Engineer;Data Engineering+Enthusiast;React+%7C+Node+%7C+Express;Building+Scalable+WebApps+AIAgents+RAG" />
-
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+%26+Multi-Agent+Systems;Learning+DSA+%26+Software+Engineering;Turning+ideas+into+working+products" />
+</p>
 
 ---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
-<div align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</div>
+I'm a **B.Tech Information Technology student at Chandigarh Group of Colleges, Landran**, with a strong foundation in **Data Structures & Algorithms** and hands-on experience building software and AI applications.
 
-- 🎓 IT Student (3rd Year)  
-- 💻 software Engineer
--  Agentic AI,LLM, RAG AI
-- ⚡ Performance & Clean Architecture Focused  
-- 🎯 Preparing for Product-Based Companies  
+I'm particularly interested in:
 
----
+* 🤖 Generative AI & LLM applications
+* 🧠 RAG & semantic search
+* 🔗 Multi-agent systems
+* 🕸️ LangGraph & AI orchestration
+* 🗄️ SQL & data engineering
+* 💻 Software development & problem solving
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=36D1DC)](https://vercel.com/aditis-projects-ad386cdb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=36D1DC)](https://www.linkedin.com/in/aditiraj41/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:aditirh2006@gmail.com)
-
-</div>
+Currently, I'm focused on becoming a stronger **software engineer while exploring practical AI systems**.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 What I Build
 
-<div align="center">
+I enjoy working on projects where **software engineering meets AI**.
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-# 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Raj07&show_icons=true&theme=tokyonight&hide_border=true" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Raj07&theme=tokyonight&hide_border=true" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Raj07&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+```text
+        ┌──────────────────────────────┐
+        │       Software Engineering   │
+        └──────────────┬───────────────┘
+                       │
+              ┌────────▼────────┐
+              │       AI        │
+              └────────┬────────┘
+                       │
+       ┌───────────────┼────────────────┐
+       ▼               ▼                ▼
+      RAG         Multi-Agent       Data Systems
+       │               │                │
+       └───────────────┼────────────────┘
+                       ▼
+                Real-world Products
+```
 
 ---
 
+## 🧠 Tech Stack
 
-> *Small improvements every day create big results.*
+### Languages
 
----
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-# 🚀 Featured Projects
+### AI / GenAI
 
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-102230?style=for-the-badge"/>
+</p>
 
-## 🤖 Interview AI Platform
+### Development
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=36D1DC&width=520&lines=AI+Powered+Mock+Interview+System;Real-time+Question+Generation;Performance+Feedback+Analysis;Built+for+Placement+Preparation" />
-</div>
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-🔹 AI-based mock interview system  
-🔹 Real-time evaluation & feedback  
-🔹 Backend powered by Node + Express  
-🔹 Designed for interview readiness  
+### Data
 
----
-
-## 💰 Expense Tracker
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=FF7F50&width=520&lines=Track+Income+%26+Expenses;Clean+UI+Dashboard;MERN+Stack+Project;User-Friendly+Design" />
-</div>
-
-🔹 Income & expense visualization  
-🔹 Dashboard analytics  
-🔹 Clean, responsive UI  
-🔹 Full-stack implementation  
-
----
-
-# 🧠 Fun Zone
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="280"/>
-</div>
-
----
-
-# 🌈 Quote of the Day
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
+# ⭐ Featured Projects
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36D1DC&width=500&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing+🚀+Keep+Going" />
+## ✈️ TravelMate-AI
 
-</div>
+### Multi-Agent Travel Planner
 
+A multi-agent travel planning system built with **LangGraph and MCP**, using specialized agents coordinated through a supervisor.
+
+**What I built:**
+
+* 🧩 Flight, Hotel, Weather, Budget & Itinerary agents
+* 🧠 Supervisor-based agent orchestration
+* 🛡️ Input guardrails and dynamic routing
+* 🔌 MCP-based external tools
+* 🤝 Human-in-the-Loop approval
+* 💾 PostgreSQL persistence
+* 🧠 Long-term conversation memory
+
+**Stack**
+
+`Python` `LangGraph` `MCP` `FastAPI` `PostgreSQL` `HITL` `Guardrails`
+
+---
+
+## 🎥 AI Meeting & Video Assistant
+
+### Turn Long Videos Into Searchable Knowledge
+
+An AI-powered meeting and video assistant that processes **YouTube and local audio/video**, generates transcripts, extracts meeting intelligence, and enables conversational Q&A.
+
+**Features:**
+
+* 🎙️ Whisper-based transcription
+* 🌍 English, Hindi & Hinglish support
+* 📝 AI-generated summaries
+* ✅ Action item extraction
+* 🎯 Decision extraction
+* ❓ Open-question detection
+* 🔍 RAG-based semantic search
+* 💬 Conversational Q&A over transcripts
+
+**Stack**
+
+`Python` `Whisper` `LangChain` `Mistral AI` `ChromaDB` `Hugging Face`
+
+---
+
+## 📊 SQL Data Warehouse & Analytics Platform
+
+### From Raw Business Data → Analytics-Ready Data
+
+Designed a **3-layer Medallion Data Warehouse** integrating ERP and CRM data for analytical workloads.
+
+```text
+Raw Sources
+    ↓
+┌──────────┐
+│  Bronze  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  Silver  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   Gold   │
+└────┬─────┘
+     ↓
+Business Analytics
+```
+
+**Highlights:**
+
+* 🏗️ Medallion architecture
+* 🔄 ETL pipelines
+* ⭐ Star Schema
+* 📐 Fact & Dimension modeling
+* 🧮 CTEs & Window Functions
+* 🔗 Complex Joins
+* 📈 Analytical reporting
+
+**Stack**
+
+`SQL Server` `SSMS` `ETL` `Data Modeling` `Star Schema`
+
+---
+
+# 📚 Currently Learning
+
+```text
+DSA
+ ├── Problem Solving
+ ├── Algorithms
+ └── Data Structures
+
+AI Engineering
+ ├── RAG
+ ├── LangChain
+ ├── LangGraph
+ ├── Multi-Agent Systems
+ └── LLM Applications
+
+Software Engineering
+ ├── Backend Development
+ ├── APIs
+ ├── Databases
+ └── System Design
+```
+
+---
+
+# 🏆 Achievements
+
+🏅 **College Finalist — Smart India Hackathon 2025**
+
+🎓 **B.Tech Information Technology — CGPA: 8.01/10**
+
+📜 **MERN Stack Industrial Training Certified — 2025**
+
+📜 **Internshala Web Development Certificate — 2024**
+
+My resume also lists **DBMS, SQL, OOP, Operating Systems, and Computer Networks** among my strong subjects.
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi41&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi41&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aditi41&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aditi41/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aditirh2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aditi41">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 "Build. Learn. Break. Improve. Repeat."
+
+⭐ If you find something interesting here, feel free to explore my repositories.
+
+</p>
